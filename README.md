@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-*## Irene Boruah
+## Irene Boruah
 
 Final-year Mechanical Engineering student at Dibrugarh University Institute of Engineering and Technology (DUIET), India. Graduating June 2027.
 
@@ -40,16 +37,4 @@ Final-year Mechanical Engineering student at Dibrugarh University Institute of E
 ### Contact
 
 - Email: ireneboruah2004@gmail.com
-- LinkedIn: www.linkedin.com/in/irene-boruah*ireneboruah2004/ireneboruah2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: linkedin.com/in/ireneboruahresume123
