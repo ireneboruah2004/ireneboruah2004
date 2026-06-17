@@ -8,7 +8,7 @@ Final-year Mechanical Engineering student at Dibrugarh University Institute of E
 
 ### Currently
 
-- Preparing a research paper on bearing fault diagnostics using vibration signal processing and ML (target submission: July 2026)
+- Preparing a research paper on Fatigue life prediction using ML MatNavi dataset ( paper in preparation )
 - Developing an autonomous drone-based crack detection framework for infrastructure inspection, with my faculty supervisor (paper in preparation)
 - Extending my physics-informed neural network work to hybrid architectures for laser-based additive manufacturing thermal field prediction
 - Applying for graduate research in Japan (MEXT Fall 2027)
